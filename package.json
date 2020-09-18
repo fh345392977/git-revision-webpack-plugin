@@ -1,7 +1,7 @@
 {
-  "name": "git-revision-webpack-plugin",
+  "name": "@hzzt/git-revision-webpack-plugin",
   "version": "3.0.6",
-  "description": "Simple webpack plugin that generates VERSION and COMMITHASH files during build",
+  "description": "Fork https://github.com/pirelenito/git-revision-webpack-plugin.git, Add hashLength",
   "main": "lib/index.js",
   "scripts": {
     "test": "npm run test:lint && npm run test:unit",
